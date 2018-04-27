@@ -3,4 +3,4 @@
 #### 项目介绍
 this is test object
 
-creating a new branch is quick
+creating a new branch is quick & simple
