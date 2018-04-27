@@ -6,3 +6,5 @@ this is test object
 
 creating a new branch is quick and simple
 
+add merge
+
